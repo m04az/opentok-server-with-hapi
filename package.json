@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^15.0.1",
+    "hapi": "^18.1.0",
     "opentok": "^2.3.2"
   }
 }
